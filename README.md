@@ -1,2 +1,3 @@
-# homey-nobo-hub
-Homey App for Nobø Hub
+# Homey Nobø Hub
+
+Homey app for Nobø hub
